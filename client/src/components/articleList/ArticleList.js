@@ -14,59 +14,59 @@ function ArticleList({alumni}) {
             },
             {
                 num: "◾",
-                desc: "Seung Hyun No, JM medical"
+                desc: "Seung Hyun No, Master, JM medical"
             },
             {
                 num: "◾",
-                desc: "Jin su Park, SK"
+                desc: "Jin su Park, Master, SK Hynix"
             },
             {
                 num: "◾",
-                desc: "Tae Hyung Kim, LIG"
+                desc: "Tae Hyung Kim, Master, LIG Nex1"
             },
             {
                 num: "◾",
-                desc: "Seung Bin Song, EO technics"
+                desc: "Seung Bin Song, Master, EO technics"
             },
             {
                 num: "◾",
-                desc: "Eun Hye Han, go"
+                desc: "Eun Hye Han, Master, Go"
             },
             {
                 num: "◾",
-                desc: "Jong geun Shin, EO technics"
+                desc: "Jong geun Shin, Master, EO technics"
             },
             {
                 num: "◾",
-                desc: "Jung Sub Lee, EO technics"
+                desc: "Jung Sub Lee, Master, EO technics"
             },
             {
                 num: "◾",
-                desc: "Jae Hoon Lee, Hanhwa"
+                desc: "Jae Hoon Lee, Master, Hanhwa Defense"
             },
             {
                 num: "◾",
-                desc: "Jin Hoo Lee, Lutronic"
+                desc: "Jin Hoo Lee, Master, Lutronic"
             },
             {
                 num: "◾",
-                desc: "Ye Ji Jung, Hanhwa"
+                desc: "Ye Ji Jung, Master, Hanhwa Defense"
             },
             {
                 num: "◾",
-                desc: "Sang Min Ann, go abroad"
+                desc: "Sang Min Ann, Master, Go abroad"
             },
             {
                 num: "◾",
-                desc: "Eun Ji Park, LIG"
+                desc: "Eun Ji Park, Ph-D, LIG Nex1"
             },
             {
                 num: "◾",
-                desc: "Jin Pil Kim, EO techincs"
+                desc: "Jin Pil Kim, Master, EO techincs"
             },
             {
                 num: "◾",
-                desc: "Hye Mi Park, LG Innotek"
+                desc: "Hye Mi Park, Master, LG Innotek"
             }
         ]
     }else{
