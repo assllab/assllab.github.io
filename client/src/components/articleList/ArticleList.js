@@ -63,6 +63,10 @@ function ArticleList({alumni}) {
             {
                 num: "◾",
                 desc: "Jin Pil Kim, EO techincs"
+            },
+            {
+                num: "◾",
+                desc: "Hye Mi Park, LG Innotek"
             }
         ]
     }else{
