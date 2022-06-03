@@ -20,8 +20,8 @@ function MemberPage() {
     const members = [
         {name: "Jong Seon Park", position: "Ph. D. student", desc: "jonsn.park◾gmail.com", image: JongSeonParkImg},
         {name: "Ye Jin Oh", position: "Ph. D. student", desc: "ohyejin0730◾gmail.com", image: YeJinOhImg},
-        {name: "In Chul Park", position: "M.S. student", desc: "parkinchul601◾gmail.com", image: InChulParkImg},
-        {name: "Eun Kyoung Park", position: "M.S. student", desc: "eunkyoung120◾hanyang.ac.kr", image: EunKyoungParkImg},
+        {name: "In Chul Park", position: "Master student", desc: "parkinchul601◾gmail.com", image: InChulParkImg},
+        {name: "Eun Kyoung Park", position: "Master student", desc: "eunkyoung120◾hanyang.ac.kr", image: EunKyoungParkImg},
         {name: "Ju Yong Shin", position: "Undergraduate Student", desc: "balance0415◾hanyang.ac.kr", image: ShinJuYongImg},
         {name: "Hae Ny Lee", position: "Undergraduate Student", desc: "haeny6060◾hanyang.ac.kr", image: HaeNyLeeImg},
         {name: "Su In Jeon", position: "Undergraduate Student", desc: "qqy78◾hanyang.ac.kr", image: SuInJeonImg},
