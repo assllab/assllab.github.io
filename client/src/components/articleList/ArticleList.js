@@ -67,7 +67,12 @@ function ArticleList({alumni}) {
             {
                 num: "◾",
                 desc: "Hye Mi Park, Master, LG Innotek"
-            }
+            },
+            {
+                num: "◾",
+                desc: "Min Ji Jeon, Master, Lutronic"
+            },
+            
         ]
     }else{
         contents = [
