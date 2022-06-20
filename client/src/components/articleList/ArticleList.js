@@ -42,7 +42,7 @@ function ArticleList({alumni}) {
             },
             {
                 num: "◾",
-                desc: "Jae Hoon Lee, Master, Hanhwa Defense"
+                desc: "Jae Hoon Lee, Master, (주)Hanhwa"
             },
             {
                 num: "◾",
@@ -50,7 +50,7 @@ function ArticleList({alumni}) {
             },
             {
                 num: "◾",
-                desc: "Ye Ji Jung, Master, Hanhwa Defense"
+                desc: "Ye Ji Jung, Master, (주)Hanhwa"
             },
             {
                 num: "◾",
