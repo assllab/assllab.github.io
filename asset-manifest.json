@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.cd80a0f2.chunk.css",
-    "main.js": "/static/js/main.6e7f42e9.chunk.js",
-    "main.js.map": "/static/js/main.6e7f42e9.chunk.js.map",
+    "main.js": "/static/js/main.25ace378.chunk.js",
+    "main.js.map": "/static/js/main.25ace378.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9ecd7852.js",
     "runtime-main.js.map": "/static/js/runtime-main.9ecd7852.js.map",
     "static/css/2.a95be28f.chunk.css": "/static/css/2.a95be28f.chunk.css",
@@ -19,6 +19,7 @@
     "static/media/JongSeonPark.c3f4983c.jpg": "/static/media/JongSeonPark.c3f4983c.jpg",
     "static/media/Shinjuyong.6af4979f.jpg": "/static/media/Shinjuyong.6af4979f.jpg",
     "static/media/SuInJeon.5d86c0be.jpg": "/static/media/SuInJeon.5d86c0be.jpg",
+    "static/media/SungMokKim.3581cd63.jpg": "/static/media/SungMokKim.3581cd63.jpg",
     "static/media/YeJinOh.3ab932f2.png": "/static/media/YeJinOh.3ab932f2.png",
     "static/media/logo.1d473a9c.png": "/static/media/logo.1d473a9c.png",
     "static/media/main1.64249b65.jpg": "/static/media/main1.64249b65.jpg",
@@ -42,6 +43,6 @@
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.975b8aba.chunk.js",
     "static/css/main.cd80a0f2.chunk.css",
-    "static/js/main.6e7f42e9.chunk.js"
+    "static/js/main.25ace378.chunk.js"
   ]
 }
