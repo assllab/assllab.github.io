@@ -10,7 +10,7 @@ function ArticleList({alumni}) {
         contents = [
             {
                 num: "◾",
-                desc: "Dong Jun Kim, Ph-D, ADD(Agency for depend development)"
+                desc: "Dong Jun Kim, Ph-D, ADD(Agency for defense development)"
             },
             {
                 num: "◾",
