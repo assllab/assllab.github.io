@@ -14,8 +14,8 @@ import InChulParkImg from "../../images/membersPage/InChulPark.png"
 import EunKyoungParkImg from "../../images/membersPage/EunKyoungPark.png"
 import ShinJuYongImg from "../../images/membersPage/Shinjuyong.jpg"
 import HaeNyLeeImg from "../../images/membersPage/HaenyLee.jpg"
-import SuInJeonImg from "../../images/membersPage/SuInJeon.jpg"
 import SungMokKimImg from "../../images/membersPage/SungMokKim.jpg"
+import HyeRanLeeImg from "../../images/membersPage/HyeRanLee.jpg"
 
 function MemberPage() {
     const members = [
@@ -25,8 +25,8 @@ function MemberPage() {
         {name: "Eun Kyoung Park", position: "Master student", desc: "eunkyoung120◾hanyang.ac.kr", image: EunKyoungParkImg},
         {name: "Ju Yong Shin", position: "Undergraduate Student", desc: "balance0415◾hanyang.ac.kr", image: ShinJuYongImg},
         {name: "Hae Ny Lee", position: "Undergraduate Student", desc: "haeny6060◾hanyang.ac.kr", image: HaeNyLeeImg},
-        {name: "Su In Jeon", position: "Undergraduate Student", desc: "qqy78◾hanyang.ac.kr", image: SuInJeonImg},
         {name: "Sung Mok Kim", position: "Undergraduate Student", desc: "sungmok06◾hanyang.ac.kr", image: SungMokKimImg},
+        {name: "Hye Ran Lee", position: "Undergraduate Student", desc: "hyeran245◾hanyang.ac.kr", image: HyeRanLeeImg},
 
     ]
     return (
