@@ -16,6 +16,8 @@ import ShinJuYongImg from "../../images/membersPage/Shinjuyong.jpg"
 import HaeNyLeeImg from "../../images/membersPage/HaenyLee.jpg"
 import SungMokKimImg from "../../images/membersPage/SungMokKim.jpg"
 import HyeRanLeeImg from "../../images/membersPage/HyeRanLee.jpg"
+import MoonSeockKoImg from "../../images/membersPage/MoonSeockKo.png"
+import ChaeWonJeongImg from "../../images/membersPage/ChaeWonJeong.jpg"
 
 function MemberPage() {
     const members = [
@@ -23,10 +25,12 @@ function MemberPage() {
         {name: "Ye Jin Oh", position: "Ph. D. student", desc: "ohyejin0730◾gmail.com", image: YeJinOhImg},
         {name: "In Chul Park", position: "Master student", desc: "parkinchul601◾gmail.com", image: InChulParkImg},
         {name: "Eun Kyoung Park", position: "Master student", desc: "eunkyoung120◾hanyang.ac.kr", image: EunKyoungParkImg},
-        {name: "Ju Yong Shin", position: "Undergraduate Student", desc: "balance0415◾hanyang.ac.kr", image: ShinJuYongImg},
-        {name: "Hae Ny Lee", position: "Undergraduate Student", desc: "haeny6060◾hanyang.ac.kr", image: HaeNyLeeImg},
-        {name: "Sung Mok Kim", position: "Undergraduate Student", desc: "sungmok06◾hanyang.ac.kr", image: SungMokKimImg},
-        {name: "Hye Ran Lee", position: "Undergraduate Student", desc: "hyeran245◾hanyang.ac.kr", image: HyeRanLeeImg},
+        {name: "Ju Yong Shin", position: "Master Student", desc: "balance0415◾hanyang.ac.kr", image: ShinJuYongImg},
+        {name: "Hae Ny Lee", position: "Master Student", desc: "haeny6060◾hanyang.ac.kr", image: HaeNyLeeImg},
+        {name: "Sung Mok Kim", position: "Master Student", desc: "sungmok06◾hanyang.ac.kr", image: SungMokKimImg},
+        {name: "Hye Ran Lee", position: "Master Student", desc: "hyeran245◾hanyang.ac.kr", image: HyeRanLeeImg},
+        {name: "Moon Seock Ko", position: "Master Student", desc: "komoonseock◾hanyang.ac.kr", image: MoonSeockKoImg},
+        {name: "Chae Won Jeong", position: "Undergraduate Student", desc: "chaewon1◾hanyang.ac.kr", image: ChaeWonJeongImg},
 
     ]
     return (
