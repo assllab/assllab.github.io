@@ -72,6 +72,10 @@ function ArticleList({alumni}) {
                 num: "◾",
                 desc: "Min Ji Jeon, Master, Lutronic"
             },
+            {
+                num: "◾",
+                desc: "Jong Seon Park, Ph-D, Hanhwa"
+            },
             
         ]
     }else{
