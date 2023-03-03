@@ -19,6 +19,7 @@ import MoonSeockKoImg from "../../images/membersPage/MoonSeockKo.png"
 import ChaeWonJeongImg from "../../images/membersPage/ChaeWonJeong.jpg"
 import JunBeomParkImg from "../../images/membersPage/JunBeomPark.jpg"
 import JiHyeonWooImg from "../../images/membersPage/JiHyeonWoo.jpg"
+import JeongWonOhImg from "../../images/membersPage/JeongWonOh.jpg"
 
 function MemberPage() {
     const members = [
@@ -34,6 +35,7 @@ function MemberPage() {
         {name: "Chae Won Jeong", position: "Undergraduate Student", desc: "chaewon1◾hanyang.ac.kr", image: ChaeWonJeongImg},
         {name: "Jun Beom Park", position: "Undergraduate Student", desc: "yrtny70127◾gmail.com", image: JunBeomParkImg},
         {name: "Ji Hyeon Woo", position: "Undergraduate Student", desc: "woo3425◾hanyang.ac.kr", image: JiHyeonWooImg},
+        {name: "Jeong Won Oh", position: "Undergraduate Student", desc: "okojw0◾hanyang.ac.kr", image: JeongWonOhImg},
 
     ]
     return (
