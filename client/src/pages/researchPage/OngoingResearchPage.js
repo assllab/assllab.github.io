@@ -3,6 +3,8 @@ import NavBar from "../../components/navbar/NavBar";
 import ongoing1 from '../../images/onGoingPage/ongoing1.png'
 import ongoing2 from '../../images/onGoingPage/ongoing2.png'
 import ongoing3 from '../../images/onGoingPage/ongoing3.png'
+import ongoing4 from '../../images/onGoingPage/ongoing4.png'
+import ongoing5 from '../../images/onGoingPage/ongoing5.png'
 import OngoingCard from "../../components/onGoingCard/OngoingCard";
 import {OnGoingResearchContainer} from "./onGoingResearchStyles";
 import BorderLine from "../../components/borderLine/borderLine";
@@ -23,6 +25,16 @@ function OngoingResearchPage() {
             title: "◼  방사형/방위형 편광을 가지는 광소용돌이 레이저빔 생성 및 특성 연구",
             desc: "수동/능동적 방법으로 생성된 방사형/방위형 편광 광소용돌이 고출력 레이저빔의 생성 및 전파 특성 연구, 궤도 각운동량 차수와 편광과의 상관 관계, SCF를 사용한 MOPA 시스템을 구축하여 출력 증강 및 펄스 동작을 수행함과 동시에 광소용돌이 레이저빔으로 비선형 광학 현상을 유도하는 연구를 진행.",
             image: ongoing3
+        },
+        {
+            title: "◼  편광유지 광섬유로 구성된 비선형 증폭 루프 거울 Figure-8 Yb 광섬유 펨토초 레이저",
+            desc: "펌프 출력을 조정하는 것만으로도 간단하게 모드 잠금 동작 특성을 조절할 수 있고, 진동과 온도에 둔감하여 높은 환경 안정성을 제공하는 비선형 증폭 루프 거울 기반 8자 형태의 Yb 편광유지 광섬유 레이저를 구현한다.",
+            image: ongoing4
+        },
+        {
+            title: "◼  고반복률 고출력 극초단 펄스 레이저 증폭기",
+            desc: "극초단 펄스레이저의 공진기 외부 반복률 배가 방식으로 GHz 수준의 고반복률을 달성한다. Yb 기반의 이득광섬유를 사용하여 펄스를 증폭하고, 회절격자를 통해 펄스를 시간적으로 압축하여 고반복률 고출력 극초단 펄스레이저를 구현한다.",
+            image: ongoing5
         },
     ]
     return (
