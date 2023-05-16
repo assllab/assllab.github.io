@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.cd80a0f2.chunk.css",
-    "main.js": "/static/js/main.79e61faa.chunk.js",
-    "main.js.map": "/static/js/main.79e61faa.chunk.js.map",
+    "main.js": "/static/js/main.f153843f.chunk.js",
+    "main.js.map": "/static/js/main.f153843f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9ecd7852.js",
     "runtime-main.js.map": "/static/js/runtime-main.9ecd7852.js.map",
     "static/css/2.a95be28f.chunk.css": "/static/css/2.a95be28f.chunk.css",
@@ -39,6 +39,8 @@
     "static/media/ongoing1.bd46fda0.png": "/static/media/ongoing1.bd46fda0.png",
     "static/media/ongoing2.2afb8a76.png": "/static/media/ongoing2.2afb8a76.png",
     "static/media/ongoing3.c9863c52.png": "/static/media/ongoing3.c9863c52.png",
+    "static/media/ongoing4.cf62fa3c.png": "/static/media/ongoing4.cf62fa3c.png",
+    "static/media/ongoing5.87cde480.png": "/static/media/ongoing5.87cde480.png",
     "static/media/professor.07de570b.jpg": "/static/media/professor.07de570b.jpg"
   },
   "entrypoints": [
@@ -46,6 +48,6 @@
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.975b8aba.chunk.js",
     "static/css/main.cd80a0f2.chunk.css",
-    "static/js/main.79e61faa.chunk.js"
+    "static/js/main.f153843f.chunk.js"
   ]
 }
