@@ -82,17 +82,6 @@ const firstMarkdown = `
 \`\`\`
 > ![image](https://user-images.githubusercontent.com/93359212/139467716-52dab2ac-52a4-4615-b966-03343c43c16a.png)
 
-
-　
-
-## ⁜ 극초단 펄스 레이저 
-
-\`\`\`
-◾ 광섬유 기반 극초단 펄스 레이저 공진기 및 증폭기 구성을 위한 이론적 시뮬레이션 
-◾ 광섬유 기반 Figure-8 극초단 펄스 레이저 공진기 연구 및 개발 
-◾ > 100 W 고출력, GHz 수준의 고반복률 펄스 레이저 증폭기 개발 
-\`\`\`
-> ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/93359212/238538221-2aa6e44a-93bd-4954-aa12-887b946dc7a6.png)
 `
 
 
