@@ -92,7 +92,7 @@ const firstMarkdown = `
 ◾ 광섬유 기반 Figure-8 극초단 펄스 레이저 공진기 연구 및 개발 
 ◾ >100 W 고출력, GHz 수준의 고반복률 펄스 레이저 증폭기 개발 
 \`\`\`
-> ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/93359212/238544830-47578296-e0c8-4021-a6ac-58b69117991d.png)
+> ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/93359212/238545680-78de5777-196e-4e59-b0b1-e10c82a0ebbe.png)
 > ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/93359212/238544853-7674d38d-5269-44eb-b117-6675cc2e36a7.png)
 
 `
