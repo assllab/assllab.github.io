@@ -76,7 +76,10 @@ function ArticleList({alumni}) {
                 num: "◾",
                 desc: "Jong Seon Park, Ph-D, Hanhwa"
             },
-            
+            {
+                num: "◾",
+                desc: "Ye Jin Oh, Ph-D, GIST(Advanced Photonics Research Inst.)"
+            },
         ]
     }else{
         contents = [
