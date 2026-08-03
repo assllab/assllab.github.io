@@ -29,9 +29,9 @@ function MemberPage() {
             <MemberContainer>
                 <Title title={"MEMBERS"}/>
                 <MemberCard image={professorImg} position={"Professor"} name={"Ji Won Kim"}
-                            desc={"Department of Photonics and Nanoelectronics\n" +git
-                            "Hanyang University, ERICA campus\n" +
-                            "jwk7417◾hanyang.ac.kr\n"}/>
+                            desc={"Department of Photonics and Nanoelectronics\n"+
+                                    "Hanyang University, ERICA campus\n" +
+                                    "jwk7417◾hanyang.ac.kr\n"}/>
                 <Title size={"small"} title={"Education"}/>
                 <EducationList/>
                 {/*<Title size={"small"} title={"Main article"}/>*/}
