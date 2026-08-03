@@ -11,17 +11,16 @@ import hoonJungImg from "../../images/membersPage/HoonJung.jpg"
 import EunKyoungParkImg from "../../images/membersPage/EunKyoungPark.png"
 import InChulParkImg from "../../images/membersPage/InChulPark.png"
 import JeongSeopLeeImg from "../../images/membersPage/JeongSeopLee.jpg"
-import NaGyeongKimImg from "../../images/membersPage/NaGyeongKim.jpg"
 import HyunJaeChoImg from "../../images/membersPage/HyunJaeCho.jpg"
 
 function MemberPage() {
     const members = [
         {name: "Jun Ho Lee", position: "Master student", desc: "leejunho91◾taihanfiber.com"},
-        {name: "Jeong Seop Lee", position: "Ph.D student", desc: "jeongseop◾outlook.com", image: JeongSeopLeeImg},
-        {name: "Na Gyeong Kim", position: "Ph.D student", desc: "knk6103◾gmail.com", image: NaGyeongKimImg},
         {name: "Eun Kyoung Park", position: "Ph.D student", desc: "eunkyoung120◾hanyang.ac.kr", image: EunKyoungParkImg},
         {name: "In Chul Park", position: "Ph.D student", desc: "parkinchul601◾gmail.com", image: InChulParkImg},
         {name: "Hyun Jae Cho", position: "Master student", desc: "woguswo9532◾gmail.com", image: HyunJaeChoImg},
+        {name: "Jeong Seop Lee", position: "Ph.D student", desc: "jeongseop◾outlook.com", image: JeongSeopLeeImg},
+        {name: "Na Gyeong Kim", position: "Ph.D student", desc: "knk6103◾gmail.com"},
     ]
     return (
         <div>

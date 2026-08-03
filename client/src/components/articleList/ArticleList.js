@@ -14,7 +14,7 @@ function ArticleList({alumni}) {
             },
             {
                 num: "◾",
-                desc: "Seung Hyun No, Master, JM medical"
+                desc: "Seung Hyun No, Master, EO Technics"
             },
             {
                 num: "◾",
@@ -30,15 +30,11 @@ function ArticleList({alumni}) {
             },
             {
                 num: "◾",
-                desc: "Eun Hye Han, Master, Go"
+                desc: "Eun Hye Han, Master, LASEROPTEK"
             },
             {
                 num: "◾",
                 desc: "Jong geun Shin, Master, EO technics"
-            },
-            {
-                num: "◾",
-                desc: "Jung Sub Lee, Master, EO technics"
             },
             {
                 num: "◾",
@@ -66,7 +62,7 @@ function ArticleList({alumni}) {
             },
             {
                 num: "◾",
-                desc: "Hye Mi Park, Master, LG Innotek"
+                desc: "Hye Mi Park, Master, Hanhwa"
             },
             {
                 num: "◾",
@@ -78,7 +74,7 @@ function ArticleList({alumni}) {
             },
             {
                 num: "◾",
-                desc: "Ye Jin Oh, Ph-D, GIST(Advanced Photonics Research Inst.)"
+                desc: "Ye Jin Oh, Ph-D, HiLASE"
             },
             {
                 num: "◾",
@@ -100,6 +96,14 @@ function ArticleList({alumni}) {
                 num: "◾",
                 desc: "Hye Ran Lee, Master, HAESUNG DS"
             },
+            {
+                num: "◾",
+                desc: "Jun Beom Park, Master, Open to work"
+            },
+            {
+                num: "◾",
+                desc: "Jin Bae Moon, Ph-D, Philoptics"
+            }
         ]
     }else{
         contents = [
