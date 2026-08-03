@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.cd80a0f2.chunk.css",
-    "main.js": "/static/js/main.8ffba3e7.chunk.js",
-    "main.js.map": "/static/js/main.8ffba3e7.chunk.js.map",
+    "main.js": "/static/js/main.81747e57.chunk.js",
+    "main.js.map": "/static/js/main.81747e57.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9ecd7852.js",
     "runtime-main.js.map": "/static/js/runtime-main.9ecd7852.js.map",
     "static/css/2.a95be28f.chunk.css": "/static/css/2.a95be28f.chunk.css",
@@ -17,7 +17,6 @@
     "static/media/HyunJaeCho.6645b57a.jpg": "/static/media/HyunJaeCho.6645b57a.jpg",
     "static/media/InChulPark.f05704b0.png": "/static/media/InChulPark.f05704b0.png",
     "static/media/JeongSeopLee.42290cce.jpg": "/static/media/JeongSeopLee.42290cce.jpg",
-    "static/media/NaGyeongKim.831f286d.jpg": "/static/media/NaGyeongKim.831f286d.jpg",
     "static/media/logo.1d473a9c.png": "/static/media/logo.1d473a9c.png",
     "static/media/main1.64249b65.jpg": "/static/media/main1.64249b65.jpg",
     "static/media/main2.0f1db66a.png": "/static/media/main2.0f1db66a.png",
@@ -42,6 +41,6 @@
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.975b8aba.chunk.js",
     "static/css/main.cd80a0f2.chunk.css",
-    "static/js/main.8ffba3e7.chunk.js"
+    "static/js/main.81747e57.chunk.js"
   ]
 }
