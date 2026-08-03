@@ -26,7 +26,7 @@ function ArticleList({alumni}) {
             },
             {
                 num: "◾",
-                desc: "Seung Bin Song, Master, EO technics"
+                desc: "Seung Bin Song, Master, LIG Nex1"
             },
             {
                 num: "◾",
@@ -79,6 +79,26 @@ function ArticleList({alumni}) {
             {
                 num: "◾",
                 desc: "Ye Jin Oh, Ph-D, GIST(Advanced Photonics Research Inst.)"
+            },
+            {
+                num: "◾",
+                desc: "Sung Mok Kim, Master, LIG Nex1"
+            },
+            {
+                num: "◾",
+                desc: "Ju Yong Shin, Master, LIG Nex1"
+            },
+            {
+                num: "◾",
+                desc: "Moon Seock Ko, Master, EO techincs"
+            },
+            {
+                num: "◾",
+                desc: "Hae Ny Lee, Master, SL Corporation"
+            },
+            {
+                num: "◾",
+                desc: "Hye Ran Lee, Master, HAESUNG DS"
             },
         ]
     }else{
